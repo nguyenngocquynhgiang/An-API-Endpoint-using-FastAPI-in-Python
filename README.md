@@ -4,6 +4,8 @@ LLMs like GPT, Claude, and LLaMA are revolutionizing chatbots, content creation,
 
 This guide will help you build a simple Python application using OpenAI's GPT API and deploy it to a REST endpoint using the FastAPI framework.
 
+
+ [**Web**](https://shard-particle-6f4.notion.site/Tri-n-khai-ng-d-ng-LLM-th-nh-API-Endpoint-b-ng-FastAPI-trong-Python-19b2d939cc0c807ca991c35f487cdac4?pvs=4)
 ---
 
 ## **1. Create a Simple FastAPI Web Server**
